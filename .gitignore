@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .npz
+rgb_video_data
 # C extensions
 *.so
 
